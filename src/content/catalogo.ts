@@ -152,7 +152,7 @@ export const LIBRES: Codigo[] = ['N0', 'S0']
 
 export const PORTADA = {
   eyebrow: 'Catálogo de cursos · AFCademIA',
-  titular: { antes: 'Formación para el ', destacado: 'despacho de fincas', despues: '' },
+  titular: { antes: 'Formación para el ', destacado: 'despacho de administración de fincas', despues: '' },
   para: 'Cursos online para administradores de fincas y su equipo.',
   resultado:
     'Propiedad horizontal, ciberseguridad e inteligencia artificial. A tu ritmo y pensados para el trabajo de cada día en el despacho.',

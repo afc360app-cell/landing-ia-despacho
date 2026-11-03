@@ -118,7 +118,7 @@ export const S8: CursoSuelto = {
         'El despacho usa seis piezas conectadas: programa de gestión, correo, banca, web, nube y móvil. No se protege una sola',
         'Los ataques llegan por tres familias: comunicaciones, software y presencia en internet. Tu autodiagnóstico te dice por cuál empezar',
       ],
-      videos: ['El aviso falso del banco, minuto a minuto', 'Por qué un despacho de fincas'],
+      videos: ['El aviso falso del banco, minuto a minuto', 'Por qué un despacho de administración de fincas'],
     },
     {
       titulo: 'El correo que pide dinero',
